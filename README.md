@@ -3,7 +3,7 @@
 * [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
-* [Calendário](#calendário)
+* [Página](#página)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Referências](#referências)
 * [Autores](#autores)
