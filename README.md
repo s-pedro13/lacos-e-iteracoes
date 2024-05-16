@@ -30,7 +30,7 @@ O projeto é composto por um arquivo HTML que estrutura o formulário e um arqui
 - JavaScript: Para a funcionalidade de contar e exibir o número de opções selecionadas.
 
 ## Referências 📝
-- Mozilla
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 ## Autor 👤
 - João Pedro Gonçalves
