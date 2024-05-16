@@ -17,7 +17,7 @@ Este projeto é um exemplo simples de um formulário HTML com uma caixa de sele�
 O projeto é composto por um arquivo HTML que estrutura o formulário e um arquivo CSS que aplica a estilização desejada. Também inclui um script JavaScript que conta e exibe o número de opções selecionadas na caixa de seleção.
 
 ## Página 👨‍💻
-![Página](img/lacos.png)
+![Página](img/lacos e iteracoes.png)
 
 ## Funcionalidades ⚙️
 - Seleção de múltiplas opções: Permite ao usuário selecionar vários tipos de música de uma vez.
